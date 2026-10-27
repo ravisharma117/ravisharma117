@@ -19,11 +19,10 @@
 
 _Full-stack .NET and web solutions, architected for scale and delivered on time._
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imravithedev.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imravithedev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ravi-sharma-9129414b/)
 [![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ravi117?viewMode=1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravisharma117@gmail.com)
-[![NAX IT Solutions](https://img.shields.io/badge/NAX%20IT%20Solutions-1E293B?style=for-the-badge&logo=rocket&logoColor=white)](https://naxits.com)
 
 </div>
 
@@ -36,7 +35,6 @@ With **15+ years** across the .NET stack, C#, MSSQL, and Azure DevOps, I help cl
 I take ownership from planning through deployment, communicating clearly with technical and non-technical stakeholders alike, and I'm comfortable working through CI/CD pipelines under Agile and Scrum. Every engagement starts from an accurate estimate and a clear scope, so timelines stay realistic and budgets stay transparent.
 
 - 📍 Ghumarwin, India &nbsp;·&nbsp; 🗣️ English, Hindi
-- 🏢 Founder of [NAX IT Solutions](https://naxits.com)
 
 ---
 
@@ -126,9 +124,9 @@ I take ownership from planning through deployment, communicating clearly with te
 
 ## 📈 At a Glance
 
-| 🗓️ Experience | 📦 Projects | 🧰 Technologies | 🏢 Company |
-|:---:|:---:|:---:|:---:|
-| **15+ years** | **{{projectCount}}** in portfolio | **{{techCount}}** used across projects | [NAX IT Solutions](https://naxits.com) |
+| 🗓️ Experience | 📦 Projects | 🧰 Technologies |
+|:---:|:---:|:---:|
+| **15+ years** | **{{projectCount}}** in portfolio | **{{techCount}}** used across projects |
 
 ---
 
@@ -139,8 +137,7 @@ I take ownership from planning through deployment, communicating clearly with te
 | 📧 Email | [ravisharma117@gmail.com](mailto:ravisharma117@gmail.com) |
 | 💼 LinkedIn | [ravi-sharma-9129414b](https://www.linkedin.com/in/ravi-sharma-9129414b/) |
 | 🟢 Upwork | [ravi117](https://www.upwork.com/freelancers/ravi117?viewMode=1) |
-| 🌐 Portfolio | [imravithedev.netlify.app](https://imravithedev.netlify.app) |
-| 🏢 Company | [naxits.com](https://naxits.com) |
+| 🌐 Portfolio | [imravithedev.com](https://imravithedev.com) |
 
 ---
 

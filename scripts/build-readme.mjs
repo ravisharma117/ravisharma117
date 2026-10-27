@@ -10,7 +10,7 @@
  *
  * Env:
  *   API_BASE   default https://naxits-api.netlify.app
- *   SITE_BASE  default https://imravithedev.netlify.app (for "Details" links)
+ *   SITE_BASE  default https://imravithedev.com (for "Details" links)
  *
  * Any fetch/shape failure exits non-zero, so the scheduled workflow never
  * commits a README with an empty projects section.
@@ -21,7 +21,7 @@ import { fileURLToPath } from "node:url";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const API = (process.env.API_BASE ?? "https://naxits-api.netlify.app").replace(/\/+$/, "");
-const SITE = (process.env.SITE_BASE ?? "https://imravithedev.netlify.app").replace(/\/+$/, "");
+const SITE = (process.env.SITE_BASE ?? "https://imravithedev.com").replace(/\/+$/, "");
 
 const MARKER = "<!-- PROJECTS -->";
 // Cover crop for the cards. f_jpg rather than f_auto: GitHub's image proxy

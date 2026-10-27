@@ -33,9 +33,8 @@ The projects come from `GET /api/public/projects?site=imravithedev`, the same da
    - **Profile picture:** click your avatar → *Upload a photo…* → choose `avatar.jpg` from this folder (1254×1254, ~290 KB, under GitHub's 1 MB limit).
    - **Name:** Ravi Kant
    - **Bio:** Full-Stack .NET Engineer | Solutions Architect
-   - **Company:** NAX IT Solutions (type `@` to link a GitHub org, if you have one)
    - **Location:** Ghumarwin, India
-   - **Website:** `https://imravithedev.netlify.app`
+   - **Website:** `https://imravithedev.com`
    - **Social accounts:** LinkedIn and Upwork
 6. **Pin repositories.** On your profile page, click **Customize your pins** and choose up to 6 public repos, for example `dreamwashautospa` or `imravithedev-website`. Only public repos can be pinned.
 7. **Optional extras:**
