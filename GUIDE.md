@@ -30,7 +30,7 @@ The projects come from `GET /api/public/projects?site=imravithedev`, the same da
 3. **Let the workflow commit.** In the repo, go to **Settings → Actions → General → Workflow permissions**, choose **Read and write permissions**, and save.
 4. **Run it once.** Go to **Actions → Update README → Run workflow**. The run should say "README.md unchanged", because you pushed a freshly built README.
 5. **Fill in your profile** at <https://github.com/settings/profile>:
-   - **Profile picture:** upload the same photo as your portfolio (`https://res.cloudinary.com/wfg6a2xq/image/upload/v1789479645/profile.png`).
+   - **Profile picture:** click your avatar → *Upload a photo…* → choose `avatar.jpg` from this folder (1254×1254, ~290 KB, under GitHub's 1 MB limit).
    - **Name:** Ravi Kant
    - **Bio:** Full-Stack .NET Engineer | Solutions Architect
    - **Company:** NAX IT Solutions (type `@` to link a GitHub org, if you have one)
