@@ -1,0 +1,12 @@
+{
+  "name": "ravisharma117-profile",
+  "private": true,
+  "type": "module",
+  "description": "GitHub profile README for ravisharma117, built from the NAX portfolio API.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build-readme.mjs"
+  }
+}
